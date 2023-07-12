@@ -1,5 +1,4 @@
 # 🐼 SKT_FLY_AI_DevOps
-## 📝 기초
 ### 3주차!
 - git (add / commit / merge / push / pull)
 - github (branch / file management)
