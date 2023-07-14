@@ -2,7 +2,7 @@
 ### 3주차!
 - git (add / commit / merge / push / pull)
 - github (branch / file management)
-- docker 🐋
+- docker 🐋 - master branch 
 
 
 ## 📗 도서 목록
